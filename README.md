@@ -1,3 +1,5 @@
+**HUOM!** Yritin kurssin käymistä syksyllä 2021 enkä päässyt sillä kerralla aiheen valintaa pidemmälle ja valitsen nyt saman aiheen. Keskustelin asiasta Antti Laaksosen kanssa ja hän sanoi että saman aiheen valinta on ok. Ajattelin, että turha tämän takia tehdä uutta repositoriota vaan käytän tätä samaa syksyllä 2021 tehtyä. Onko tämä ok? Mikäli ei niin teen uuden repon ja päivitän osoitteen LabTooliin (tai poistan nykyisen ja teen saman uudennimisen jolloin osoite ei muutu).
+
 # Keskustelusovellus
 
 Sovelluksessa näkyy keskustelualueita, joista jokaisella on tietty aihe. Alueilla on keskusteluketjuja, jotka muodostuvat viesteistä. Jokainen käyttäjä on peruskäyttäjä tai ylläpitäjä.
